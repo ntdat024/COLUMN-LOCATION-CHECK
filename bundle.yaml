@@ -1,0 +1,6 @@
+title:
+  en_us: Column Location Check
+tooltip: 
+  en_us: >-
+    Check and highlight Structural Columns location that deviate from reference column.
+author: ntdat024@gmail.com (Dat Nguyen)
